@@ -28,3 +28,12 @@ git remote add  origin <githb_url>
 
 Step 7: how to push changes
 git push -u origin <branch_name>
+
+
+Step 8: how pull changes from remote to local
+git pull origin <branch name>
+
+Commands:
+Swithc b/w branches
+git checkout <branch_name>
+git merge <branch_name>
