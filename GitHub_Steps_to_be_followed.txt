@@ -37,3 +37,5 @@ Commands:
 Swithc b/w branches
 git checkout <branch_name>
 git merge <branch_name>
+
+This is the Final Copy
